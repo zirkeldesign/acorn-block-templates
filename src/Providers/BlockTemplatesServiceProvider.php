@@ -3,7 +3,7 @@
 namespace TinyPixel\BlockTemplates\Providers;
 
 use Illuminate\Support\Collection;
-use Roots\Acorn\ServiceProvider;
+use Illuminate\Support\ServiceProvider;
 
 /**
  * Block Templates Service Provider
